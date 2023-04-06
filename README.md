@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Blossoms](https://github.com/luyosamson/BlossomsStore)
 
-- 🌱 I’m currently learning **Angular,Nodejs**
+- 🌱 I’m currently learning **JavaScript,Python**
 
-- 👨‍💻 All of my projects are available at [luyosamson.vercel.app](luyosamson.vercel.app)
+- 👨‍💻 All of my projects are available at [https://luyosamson.vercel.app/](luyosamson.vercel.app)
 
 - 💬 Ask me about **JavaScript,React,Ruby on Rail**
 
