@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [luyosamson.vercel.app/](https://luyosamson.vercel.app/)
+- 👨‍💻 All of my projects are available at [luyosamson.vercel.app/](https://luyosamson.vercel.app)
 
 - 💬 Ask me about **JavaScript,React,Ruby on Rail**
 
