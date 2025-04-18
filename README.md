@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/luyohsamson" target="blank"><img src="https://img.shields.io/twitter/follow/luyohsamson?logo=twitter&style=for-the-badge" alt="luyohsamson" /></a> </p>
 
-- 🔭 I’m currently working on [CINAB](https://cinab-web.vercel.app/)
+- 🔭 I’m currently working on [SoftClans Technologies Limited](https://cinab-web.vercel.app/)
 
-- 🌱 I’m currently learning **Nodejs and TailwindCSS**
+- 🌱 I’m currently learning **Nodejs and C#**
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
 
