@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [SoftClans Technologies Limited](https://cinab-web.vercel.app/)
 
-- 🌱 I’m currently learning **Nodejs and C#**
+- 🌱 I’m currently learning **TypeScript,Angular and C#**
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
 
