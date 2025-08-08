@@ -17,7 +17,7 @@
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
 
-- 💬 Ask me about **JavaScript,React,Ruby on Rail**
+- 💬 Ask me about **JavaScript,TypeScript and Angular**
 
 - 📫 How to reach me **luyosamson@gmail.com**
 
