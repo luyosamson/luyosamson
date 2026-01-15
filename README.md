@@ -17,11 +17,11 @@
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
 
-- 💬 Ask me about **JavaScript,TypeScript and Angular**
+- 💬 Ask me about **TypeScript and Angular**
 
 - 📫 How to reach me **luyosamson@gmail.com**
 
-- ⚡ Fun fact **I am a funny introvert😂**
+- ⚡ Fun fact **I have never yawned😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
