@@ -17,7 +17,7 @@
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
 
-- 💬 Ask me about **TypeScript and Angular**
+- 💬 Ask me about **TypeScript,Angular and .NET**
 
 - 📫 How to reach me **luyosamson@gmail.com**
 
