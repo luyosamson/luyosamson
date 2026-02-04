@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working at [SoftClans Technologies Limited](https://softclans.co.ke/V4/)
 
-- 🌱 I’m currently learning **TypeScript,Angular and C#**
+- 🌱 I’m currently learning **Angular and C#**
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
 
