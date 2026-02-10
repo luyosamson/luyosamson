@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **TypeScript and .NET**
 
-- 📫 How to reach me **luyosamson@gmail.com**
+- 📫 How to reach me  **luyosamson@gmail.com**
 
 - ⚡ Fun fact **I have never yawned😂**
 
