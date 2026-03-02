@@ -19,7 +19,6 @@
 - 💬 Ask me about **TypeScript and .NET**
 
 - 📫 How to reach me  **luyosamson@gmail.com**
-
 - ⚡ Fun fact **I have never yawned😂**
 
 <h3 align="left">Connect with me on :</h3>
