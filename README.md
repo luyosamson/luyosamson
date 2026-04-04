@@ -20,7 +20,6 @@
 
 - 📫 How to reach me  **luyosamson@gmail.com**
 - ⚡ Fun fact **I have never yawned😂**
-
 <h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://twitter.com/luyohsamson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luyohsamson" height="30" width="40" /></a>
