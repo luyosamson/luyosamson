@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working at [SoftClans Technologies Limited](https://softclans.co.ke/V4/)
 
-
 - 🌱 I’m currently learning **Angular,C# and .NET**
 <!-- 
 - 👨‍💻 All of my projects are available at [luyosamson.vercel.app](https://luyosamson.vercel.app)  -->
